@@ -6,4 +6,4 @@ See solution scores at https://www.codeeval.com/profile/Trindaz/.
 
 ## Challenge Summaries
 
-### [Fizz-Buzz](fizz-buzz.js)
+### [Fizz-Buzz](challenges/easy/fizz-buzz.js)
